@@ -48,3 +48,54 @@ Pipeline de anonimização para documentos jurídicos utilizando supressão, has
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/luis-brandt99  
 🔗 **GitHub Projects:** veja meus repositórios em destaque
+
+# 👋 Hi! I'm Luis Brandt
+
+I’m a developer focused on **Python**, **document automation**, **PDF engineering**, **backend systems**, and **Linux infrastructure**.  
+My work is centered on building reliable and scalable solutions for companies that process documents at scale — from OCR-based data extraction and structured pipelines to full web platforms for advanced PDF manipulation.
+
+I prioritize **performance, security, automation and maintainability** in every project.
+
+---
+
+## 🚀 Highlighted Projects
+
+### 🔧 PDF Excel Ingestor  
+Automatic extraction pipeline that reads structured data from digital or scanned PDFs and fills Excel spreadsheets using a predefined template.  
+Features OCR, advanced regex parsing, data normalization, deduplication and validation.
+
+### 🖥️ Grupo Vital PDFs  
+Complete web platform for converting, merging, splitting, compressing, organizing and editing PDFs directly in the browser.  
+Built with Flask, JavaScript/SCSS, LibreOffice headless, Ghostscript, PyMuPDF and strict security layers (CSP, CSRF, MIME-check).
+
+### ⚖️ Legal Document Anonymization  
+Privacy-focused pipeline that anonymizes legal documents using suppression, hashing and Laplace noise, producing anonymized PDFs, metrics, graphs and comparative reports.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Python, Flask, FastAPI, Pandas, OpenPyXL, PyMuPDF, PikePDF, OCRmyPDF, Regex  
+**Frontend:** HTML, JavaScript, CSS/SCSS  
+**Automation & Data:** Selenium, pdfplumber, Tesseract OCR, Poppler, ETL pipelines  
+**Infra & DevOps:** Linux, Nginx, Gunicorn, systemd, Docker, Proxmox, pfSense  
+**Web3:** Solidity, ethers.js, smart contract architecture  
+**Tools:** Git, VS Code, LibreOffice headless, Ghostscript
+
+---
+
+## 🎯 What I deliver
+
+- End-to-end document automation systems  
+- Reliable OCR and structured extraction pipelines  
+- High-performance and secure PDF processing  
+- Backend APIs and scalable Flask applications  
+- Linux-based deployment and infrastructure  
+- Web3 solutions and smart contract development
+
+---
+
+## 🌐 Networks
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/luis-brandt99  
+🔗 **GitHub Projects:** see my featured repositories
